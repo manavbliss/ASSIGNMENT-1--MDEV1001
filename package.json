@@ -1,0 +1,25 @@
+{
+  "name": "assignment-1--mdev1001",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manavbliss/ASSIGNMENT-1--MDEV1001.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manavbliss/ASSIGNMENT-1--MDEV1001/issues"
+  },
+  "homepage": "https://github.com/manavbliss/ASSIGNMENT-1--MDEV1001#readme",
+  "dependencies": {
+    "save-dev": "^2.0.0"
+  },
+  "devDependencies": {
+    "sqlite3": "^4.0.8"
+  },
+  "description": ""
+}
